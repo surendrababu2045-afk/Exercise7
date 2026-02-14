@@ -2,3 +2,4 @@ Fast forward practice
 This line is added in fastbranch.
 This line is added in branchA.
 This line is added in master branch.
+This line is added in branchA.
