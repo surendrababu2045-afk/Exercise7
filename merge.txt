@@ -1,1 +1,2 @@
 Fast forward practice 
+This line is added in fastbranch.
